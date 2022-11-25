@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'rgukt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A11BAAD6939B4112B0E4F3DB3087D613 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F35B9C9C2E7C4245AC193919E185E9F6 }}
